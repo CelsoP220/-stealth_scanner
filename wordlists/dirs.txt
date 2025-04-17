@@ -1,0 +1,16 @@
+admin
+login
+dashboard
+panel
+uploads
+config
+status
+get
+post
+anything
+delay
+uuid
+headers
+user-agent
+cookies
+ip

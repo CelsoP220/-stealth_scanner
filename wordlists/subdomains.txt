@@ -1,0 +1,7 @@
+painel
+mail
+webmail
+ftp
+cpanel
+api
+dev
