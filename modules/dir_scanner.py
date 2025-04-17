@@ -2,7 +2,7 @@
 #----------------------------------------------------
 #Módulo para varredura de diretórios.
 #Envia rquisições para caminhos baseados na wordlist.
-#Se o status for 200, adiciona a lista de resultados.
+#Se o status for 200,301,302 adiciona a lista de resultados.
 #----------------------------------------------------
 
 import requests # Para enviar as requisições HTTP
